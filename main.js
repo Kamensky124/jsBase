@@ -3,7 +3,7 @@ const MIN = 0
 const ATTEMPTS_NUMBER = 10
 
 let getPlayerName() => {
-  const playerName = prompt("Enter your name")
+  const playerName = prompt("Enter your Name");
   return playerName;
 };
 
